@@ -134,5 +134,11 @@ The Intelligent CPU Scheduler Simulator provides a powerful interactive learning
 
 Contributions -
 Shivangi Singh - sjf.py and priority.py
+
+
+
 Aditi Shukla - fcfs.py
+
+
+
 Avni Maitraya - rr.py , main.py and GUI.py 
