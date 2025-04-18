@@ -130,3 +130,9 @@ Cloud-based deployment (Run simulations online without installation).
 
 5. Conclusion
 The Intelligent CPU Scheduler Simulator provides a powerful interactive learning experience for understanding CPU scheduling. By implementing various algorithms and offering real-time insights, the project helps users visualize scheduling behavior and compare algorithm efficiency. Future enhancements can make it even more dynamic and applicable in real-world systems.
+
+
+Contributions -
+Shivangi Singh - sjf.py and priority.py
+Aditi Shukla - fcfs.py
+Avni Maitraya - rr.py , main.py and GUI.py 
